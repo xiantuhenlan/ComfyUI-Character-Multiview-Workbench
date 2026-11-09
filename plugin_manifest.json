@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "comfyui-character-multiview-workbench",
+  "displayName": "ComfyUI-Character-Multiview-Workbench（闲兔角色多视图工作台）",
+  "version": "0.1.0",
+  "channel": "development"
+}

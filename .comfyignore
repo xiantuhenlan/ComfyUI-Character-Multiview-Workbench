@@ -1,0 +1,10 @@
+.git/
+.github/
+.env
+.env.*
+.coordination/
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+plugin_manifest.json

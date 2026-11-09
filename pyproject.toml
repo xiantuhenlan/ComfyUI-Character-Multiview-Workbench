@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-character-multiview-workbench"
+version = "0.1.0"
+description = "Independent character-sheet view selection, layout preview and prompt settings for ComfyUI."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/xiantuhenlan/ComfyUI-Character-Multiview-Workbench"
+"Bug Tracker" = "https://github.com/xiantuhenlan/ComfyUI-Character-Multiview-Workbench/issues"
+
+[tool.comfy]
+PublisherId = "xiantuhenlan"
+DisplayName = "ComfyUI-Character-Multiview-Workbench"
